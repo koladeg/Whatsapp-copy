@@ -33,7 +33,6 @@
 } 
 .chat__reciever {
     margin-left: auto;
-    font-size: xx-small;
     background-color: #dcf8c6;
 }
 .chat__timestamp {
@@ -53,7 +52,7 @@
 }
 .chat_body{
     flex: 1;
-    background-image: url(https://preview.redd.it/qwd83nc4xxf41.jpg?width=640&crop=smart&auto=webp&s=e82767fdf47158e80604f407ce4938e44afc6c25);
+    background-image: url(./whatsappimage.jpg);
     background-repeat: repeat;
     background-position: center;
     padding: 30px;

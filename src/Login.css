@@ -19,3 +19,8 @@
     background-color: #0a8d48 !important;
     margin-top: 50px;
 }
+.login__container > img {
+    object-fit: contain;
+    height: 100px;
+    margin-bottom: 40px;
+}
